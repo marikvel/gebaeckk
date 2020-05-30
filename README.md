@@ -10,4 +10,5 @@ I love cats
 
 [link to cute cat](koti0-268x300.jpg)
 
-[link to mark](<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?%EF%EE%F1%F2%E0%E2%FC%F2%E5+%ED%E0%EC+10+%EF%EE%E6%E0%EB%F3%E9%F1%F2%E0+%EC%FB+%F1%F2%E0%F0%E0%EB%E8%F1%FC&4&0" width="180" height="180" border="0" title="QR код"></a>)
+
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?%EF%EE%F1%F2%E0%E2%FC%F2%E5+%ED%E0%EC+10+%EF%EE%E6%E0%EB%F3%E9%F1%F2%E0+%EC%FB+%F1%F2%E0%F0%E0%EB%E8%F1%FC&4&0" width="180" height="180" border="0" title="QR код"></a>
