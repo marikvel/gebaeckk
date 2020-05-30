@@ -7,3 +7,5 @@ I love cats
 ![cats image](koti0-268x300.jpg)
 
 [link to wikipedia](https://ru.wikipedia.org/wiki/Заглавная_страница)
+
+[link to cute cat](koti0-268x300.jpg)
